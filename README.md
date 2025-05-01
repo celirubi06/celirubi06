@@ -1,16 +1,41 @@
-## Hi there 👋
+# Título Principal
 
-<!--
-**celirubi06/celirubi06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Subtítulo
 
-Here are some ideas to get you started:
+### Sub-subtítulo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Texto en negrita**  
+*Texto en cursiva*  
+~~Texto tachado~~  
+
+---
+
+### Listas
+
+1. Lista ordenada - Primer ítem
+2. Lista ordenada - Segundo ítem
+   - Sub-ítem no ordenado
+   - Otro sub-ítem
+
+- Lista no ordenada
+- Otro ítem
+
+---
+
+### Enlaces e imágenes
+
+[Enlace a Google](https://www.google.com)
+
+![Texto alternativo de imagen](https://github.com/yoursite.png)
+
+---
+
+### Código
+
+Código en línea: `print("Hello World")`
+
+Bloque de código:
+
+```python
+def hello():
+    print("Hello, GitHub!")
